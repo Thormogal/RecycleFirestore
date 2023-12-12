@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">RecycleFirestore</string>
+    <string name="GameName">GameName:</string>
+    <string name="Console">Console:</string>
 </resources>
