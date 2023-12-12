@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "120623249973",
+    "project_id": "recyclefirestore-a0def",
+    "storage_bucket": "recyclefirestore-a0def.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120623249973:android:e8ed404cfb5fc172b78f7c",
+        "android_client_info": {
+          "package_name": "com.example.recyclefirestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3b_X6fU4JpKFdAWuuJOB7oLRUYuhMlEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
