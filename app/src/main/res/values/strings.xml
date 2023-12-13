@@ -2,4 +2,7 @@
     <string name="app_name">RecycleFirestore</string>
     <string name="GameName">GameName:</string>
     <string name="Console">Console:</string>
+    <string name="AddNewGame">Add Game</string>
+    <string name="BestGame">Best Game</string>
+    <string name="vote_count">%d votes</string>
 </resources>
